@@ -5,6 +5,7 @@
 ### Bug Fixes
 
 * **StockIn:** 修复入库文件上传的bug ([dc2566d](https://github.com/zhouxiongking/test-changelog/commit/dc2566d))
+* **stockout2:** 修复拖拽功能的bug ([ec20a1f](https://github.com/zhouxiongking/test-changelog/commit/ec20a1f))
 
 
 ### Features
