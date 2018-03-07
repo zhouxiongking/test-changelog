@@ -9,6 +9,7 @@
 
 ### Features
 
+* **CHANGELOG:** 新增CHANGELOG文件 ([142ddb8](https://github.com/zhouxiongking/test-changelog/commit/142ddb8))
 * **StockOut:** 增加出库统计子模块 ([9d9e48e](https://github.com/zhouxiongking/test-changelog/commit/9d9e48e))
 
 
